@@ -1,15 +1,25 @@
+import 'font-awesome/css/font-awesome.min.css';
+import "glightbox/dist/css/glightbox.css";
+
+
+import "bootstrap-icons/font/bootstrap-icons.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import 'swiper/css';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import "bootstrap/dist/js/bootstrap.bundle.min";
+// import './styles/main.css';
+
+import Home from './screen/Home';
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
-    <App />
+    <Home />
   </React.StrictMode>
 );
 
