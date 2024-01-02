@@ -1,0 +1,11 @@
+.item h4 {
+
+}
+
+.item p {
+    margin: 0 auto;
+    color: var(--color-secondary-light);
+    text-align: left;
+    line-height: 28px;
+}
+
