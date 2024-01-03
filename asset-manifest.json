@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/www/static/css/main.622c22d5.css",
-    "main.js": "/www/static/js/main.2419e417.js",
-    "static/js/787.7c9d5f10.chunk.js": "/www/static/js/787.7c9d5f10.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/www/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/bootstrap-icons.woff?": "/www/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
-    "static/media/fontawesome-webfont.eot": "/www/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/www/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/bootstrap-icons.woff2?": "/www/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/www/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/www/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/www/index.html",
-    "main.622c22d5.css.map": "/www/static/css/main.622c22d5.css.map",
-    "main.2419e417.js.map": "/www/static/js/main.2419e417.js.map",
-    "787.7c9d5f10.chunk.js.map": "/www/static/js/787.7c9d5f10.chunk.js.map"
+    "main.css": "/wesovilabs.github.io/static/css/main.c1bebedd.css",
+    "main.js": "/wesovilabs.github.io/static/js/main.6833b478.js",
+    "static/js/787.7c9d5f10.chunk.js": "/wesovilabs.github.io/static/js/787.7c9d5f10.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/wesovilabs.github.io/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/bootstrap-icons.woff?": "/wesovilabs.github.io/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/fontawesome-webfont.eot": "/wesovilabs.github.io/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/wesovilabs.github.io/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bootstrap-icons.woff2?": "/wesovilabs.github.io/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/wesovilabs.github.io/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/wesovilabs.github.io/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/wesovilabs.github.io/index.html",
+    "main.c1bebedd.css.map": "/wesovilabs.github.io/static/css/main.c1bebedd.css.map",
+    "main.6833b478.js.map": "/wesovilabs.github.io/static/js/main.6833b478.js.map",
+    "787.7c9d5f10.chunk.js.map": "/wesovilabs.github.io/static/js/787.7c9d5f10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.622c22d5.css",
-    "static/js/main.2419e417.js"
+    "static/css/main.c1bebedd.css",
+    "static/js/main.6833b478.js"
   ]
 }
